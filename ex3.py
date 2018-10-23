@@ -10,7 +10,7 @@ from StructPy import Element, Model, DispMethod, plotter2D
 import numpy as np
 
 """
-Pratt Truss with 8 bays
+Hanger Structure
 """
 
 # Structure Geometry Data
